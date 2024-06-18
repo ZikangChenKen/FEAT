@@ -1,0 +1,7 @@
+{
+  "fname": "func0",
+  "types": ["int"],
+  "exhaustive domain": ["0~4"],
+  "random domain": ["5~9"],
+  "num random": 5
+}

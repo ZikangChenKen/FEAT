@@ -1,0 +1,7 @@
+{
+  "fname": "func3",
+  "types": ["set(int", "list(int", "tuple(int"],
+  "exhaustive domain": ["0~0(1~1", "1~2(2~2", "1~2(3~3"],
+  "random domain": ["1~1(1~1", "1~2(2~2", "1~2(3~3"],
+  "num random": 1
+}
